@@ -13,6 +13,7 @@ Projects / Topics                                                               
 [Safari](Safari) - *Safari* <sub>A native iOS app about safari wildlife </sub> | <img src="https://user-images.githubusercontent.com/36856709/111548015-108cf380-8748-11eb-9f59-0dd1adda90f1.gif" align="left" width="150" height="300" /> |
 [Touchdown](Touchdown) - *Touchdown* <sub>A native dummy NFL ecommerce app for iOS </sub> | <img src="https://user-images.githubusercontent.com/36856709/111890057-1ab32a00-89b4-11eb-91cf-dcfb29330918.gif" align="left" width="150" height="300" /> |
 [Slot Machine](Slot-Machine) <sub>A native iOS game app built for iOS, iPad, and Mac. This is a simple casino game that mimics slot machine </sub> | <img src="https://user-images.githubusercontent.com/36856709/132930098-3a333cb1-510b-4ca0-aff9-f4e85afb1592.gif" align="left" width="150" height="300" /> |
+[Chatly](Chatly) <sub>A native iOS message app build using SwiftUI and Firebase. </sub> | <img src="https://user-images.githubusercontent.com/36856709/133024200-e0424fe7-a5d7-46ca-8700-bacc1de55fde.gif" align="left" width="150" height="300" /> |
 
 
 
